@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 0fc749c2c70163c21a3d1c30ea286823095febc6 Rongjian <rongjianxiao@gmail.com> 1633906696 -0400	commit (initial): init
+0fc749c2c70163c21a3d1c30ea286823095febc6 fb2195abf62c8d1e9dfb986065c6196ea08c34a7 Rongjian <rongjianxiao@gmail.com> 1633906728 -0400	commit: new version
+fb2195abf62c8d1e9dfb986065c6196ea08c34a7 a577762d0d3a4d26ec9d834d79feac6bf352b13c Rongjian <rongjianxiao@gmail.com> 1633907108 -0400	commit: second
+a577762d0d3a4d26ec9d834d79feac6bf352b13c b9b5af0a8989fb6949aa4e73d5480fe03591ef4b Rongjian <rongjianxiao@gmail.com> 1633907587 -0400	commit: cohesion and responsibility problems happen in Article
+b9b5af0a8989fb6949aa4e73d5480fe03591ef4b a5bbae516eefd1bb7e0fa4484e7522ae6ad40926 Rongjian <rongjianxiao@gmail.com> 1633907748 -0400	commit: cohesion and responsibility problems happen in Project.java isArticle
+a5bbae516eefd1bb7e0fa4484e7522ae6ad40926 449de28902968194fdc8bf483f261eaeba86e51b Rongjian <rongjianxiao@gmail.com> 1633907988 -0400	commit: fix article problem
+449de28902968194fdc8bf483f261eaeba86e51b c3466c836329471410060fa8056e9772a35975e4 Rongjian <rongjianxiao@gmail.com> 1633910301 -0400	commit: fix code duplication problem in ProjectBuilder
+c3466c836329471410060fa8056e9772a35975e4 3b2a8bc9aa0b8ee2fdcf296c3cb4799e82e6efbf Rongjian <rongjianxiao@gmail.com> 1633910506 -0400	commit: fix instanceof problem in project
+3b2a8bc9aa0b8ee2fdcf296c3cb4799e82e6efbf 96d9a630a9c2b80d6c25099f64d1587b8acdf5f1 Rongjian <rongjianxiao@gmail.com> 1633913980 -0400	commit: reset project poly
+96d9a630a9c2b80d6c25099f64d1587b8acdf5f1 3757aea07cf9772b459dc573ad09d2ea813ece55 Rongjian <rongjianxiao@gmail.com> 1633914272 -0400	commit: only solve instanceof in project
+3757aea07cf9772b459dc573ad09d2ea813ece55 52d64a69d323b59b7553167c3554b49abab522ff Rongjian <rongjianxiao@gmail.com> 1633914371 -0400	commit: reherit
+52d64a69d323b59b7553167c3554b49abab522ff 439a0e94c88343151d67b506c9b8d8439d849882 Rongjian <rongjianxiao@gmail.com> 1633914472 -0400	commit: reherit 2
+439a0e94c88343151d67b506c9b8d8439d849882 e50f2a4802017c0221808d209e7bfbbd963b1f14 Rongjian <rongjianxiao@gmail.com> 1633914648 -0400	commit: reherit 3
+e50f2a4802017c0221808d209e7bfbbd963b1f14 1c91ef1e9c33eeabf210f4f95ceea5d1fafea758 Rongjian <rongjianxiao@gmail.com> 1633914793 -0400	commit: backto fixcode
